@@ -1,0 +1,14 @@
+{
+  "name": "nodelab1",
+  "version": "1.0.0",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J Herd",
+  "license": "MIT",
+  "description": "First Lab",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
